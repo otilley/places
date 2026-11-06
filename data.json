@@ -1,0 +1,72 @@
+[
+  {
+    "place": "my place",
+    "travel": "",
+    "passenger": 0,
+    "occupancy": 1,
+    "day": 1
+  },
+  {
+    "place": "school",
+    "travel": "car",
+    "passenger": 0,
+    "occupancy": 130,
+    "day": 1
+  },
+  {
+    "place": "store",
+    "travel": "other car",
+    "passenger": 2,
+    "occupancy": 200,
+    "day": 1
+  },
+  {
+    "place": "school",
+    "travel": "other car",
+    "passenger": 2,
+    "occupancy": 100,
+    "day": 1
+  },
+  {
+    "place": "my place",
+    "travel": "car",
+    "passenger": 0,
+    "occupancy": 1,
+    "day": 1
+  },
+  {
+    "place": "friend's place",
+    "travel": "car",
+    "passenger": 0,
+    "occupancy": 4,
+    "day": 2
+  },
+  {
+    "place": "restaurant",
+    "travel": "car",
+    "passenger": 2,
+    "occupancy": 45,
+    "day": 2
+  },
+  {
+    "place": "bar",
+    "travel": "foot",
+    "passenger": 2,
+    "occupancy": 50,
+    "day": 2
+  },
+  {
+    "place": "friend's place",
+    "travel": "other car",
+    "passenger": 2,
+    "occupancy": 2,
+    "day": 2
+  },
+  {
+    "place": "my place",
+    "travel": "car",
+    "passenger": 0,
+    "occupancy": 1,
+    "day": 3
+  }
+]
