@@ -127,5 +127,7 @@ function drawLegend() {
     text(place, x, 555);
   });
 }
-// https://editor.p5js.org/miniverse/sketches/8b0d7tQ7C - spiral 
+
+//  https://editor.p5js.org/miniverse/sketches/8b0d7tQ7C - spiral 
 // "explain how to include plot points that fall onto the existing spiral" - prompt used to generate lines for adding points onto the spiral following the data included
+//
